@@ -12,6 +12,6 @@ public class HelloController {
     @GetMapping("/hi-cicd")
     public String  hi(){
 
-        return  "hi cicd docker 1216 ^^^ !!! ";
+        return  "hi cicd docker 1216 sungbin ^^^ !!! ";
     }
 }
